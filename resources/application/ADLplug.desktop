@@ -6,5 +6,7 @@ Comment[fr]=Synthétiseur FM Yamaha OPL3 pour ADLMIDI
 TryExec=ADLplug
 Exec=ADLplug
 Icon=ADLplug
+X-NSM-Capable=true
+X-NSM-Exec=ADLplug
 Type=Application
 Categories=AudioVideo;Audio;Music;Midi
