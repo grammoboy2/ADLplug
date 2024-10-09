@@ -6,5 +6,7 @@ Comment[fr]=Synthétiseur FM Yamaha OPN2 pour OPNMIDI
 TryExec=OPNplug
 Exec=OPNplug
 Icon=OPNplug
+X-NSM-Capable=true
+X-NSM-Exec=OPNplug
 Type=Application
 Categories=AudioVideo;Audio;Music;Midi
